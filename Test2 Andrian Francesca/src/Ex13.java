@@ -78,5 +78,8 @@ public class Ex13 {
     public static void main(String[] args) {
         Persoana elev = new Elev("Francesca", 20, "10");
         Persoana profesoara = new Profesoara("Doamna Elena", 45, "Engleza");
+
+        elev.afisezInfo();
+        profesoara.afisezInfo();
     }
 }
