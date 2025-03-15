@@ -5,7 +5,7 @@ public class Ex2 {
 
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Introduceti un numar:");
+        System.out.println("Introduceti un numar intreg:");
         double nr = scanner.nextDouble();
 
         if (nr > 0) {
